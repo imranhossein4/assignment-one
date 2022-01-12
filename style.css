@@ -107,3 +107,51 @@ p{
 .community .documentation-div img{
     padding-left: 150px;
 }
+hr{
+    margin: 70px 0;
+}
+
+.contact h1{
+    font-size: 45px;
+    text-align: center;
+}
+.contact-div h2{
+    font-size: 35px;
+}
+.contact-div{
+    display: flex;
+    margin-bottom: 40px;
+}
+.contact-div-1{
+    margin-left: 7%;
+    width: 40%;
+}
+.contact-div-2{
+    margin-left: 4%;
+    width: 40%;
+}
+.contact-div-2 h2{
+    color: rgb(248, 97, 97);
+}
+input{
+    border: 1px solid #ccc;
+    display: block;
+    padding: 10px 90px;
+    margin: 30px 0;
+    
+}
+.fotter{
+    background-color: black;
+    text-align: center;
+}
+.fotter h1{
+    color: white;
+    font-style: italic;
+    font-size: 45px;
+}
+.fotter p{
+    color: rgb(212, 204, 204);
+}
+.fotter-div{
+    padding: 30px 0;
+}
