@@ -94,3 +94,16 @@ p{
     line-height: 28px;
     letter-spacing: 0.5px;
 }
+.community{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 7%;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30%;
+
+}
+.community .documentation-div img{
+    padding-left: 150px;
+}
