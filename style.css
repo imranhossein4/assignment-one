@@ -27,27 +27,37 @@ body{
     border-radius: 5px;
 
 }
-.mission{
+.mission h1{
+    font-size: 45px;
+    text-align: center;
     
 }
 .mission-sec{
     display: flex;
+    
 }
 .mission-sec img{
-    width: 50%;
+    width: 40%;
 }
 
 .mission-sec-ele-1{
-    width: 28%;
+    width: 25%;
     background-color: rgb(243, 213, 157);
-    padding-left: 25px;
-    margin-left: 5%;
+    padding-left: 35px;
+    margin-left: 7%;
+    border-radius: 20px;
 }
 .mission-sec-ele-2{
-    width: 28%;
+    width: 25%;
     background-color: rgb(240, 196, 232);
+    margin-left: 2%;
+    padding-left: 25px;
+    border-radius: 20px;
 }
 .mission-sec-ele-3{
-    width: 28%;
-    background-color: rgb(250, 237, 166);
+    width: 25%;
+    background-color: rgb(247, 226, 109);
+    margin-left: 2%;
+    padding-left: 35px;
+    border-radius: 20px;
 }
