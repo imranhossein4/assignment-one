@@ -27,4 +27,27 @@ body{
     border-radius: 5px;
 
 }
+.mission{
+    
+}
+.mission-sec{
+    display: flex;
+}
+.mission-sec img{
+    width: 50%;
+}
 
+.mission-sec-ele-1{
+    width: 28%;
+    background-color: rgb(243, 213, 157);
+    padding-left: 25px;
+    margin-left: 5%;
+}
+.mission-sec-ele-2{
+    width: 28%;
+    background-color: rgb(240, 196, 232);
+}
+.mission-sec-ele-3{
+    width: 28%;
+    background-color: rgb(250, 237, 166);
+}
